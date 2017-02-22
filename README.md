@@ -1,4 +1,4 @@
-This repo contains the auxiliary files of CHI'17 paper *Understanding “Death by GPS”: A Systematic Analysis of Catastrophic Incidents Associated with Personal Navigation Technologies* [LINK] (https://drive.google.com/file/d/0B7_jwJc8w6BZMGhKR0tjVlNuMjA/view)
+This repo contains the auxiliary files of CHI'17 paper *Understanding “Death by GPS”: A Systematic Analysis of Catastrophic Incidents Associated with Personal Navigation Technologies* [PDF] (https://drive.google.com/file/d/0B7_jwJc8w6BZMGhKR0tjVlNuMjA/view)
 
 1. [LINK TO THE INTERACTIVE WEB MAP](https://cheetah90.github.io/gps_failure/) This web map visualizes each incident with its approximate location and codes. The map is made for demo purposes so it only contains partial dataset. For full coding results, please refer to **coding_result.xls**. The source code is contained in **interactive_map_gps_incidents.html**
 
